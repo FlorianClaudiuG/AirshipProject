@@ -2,7 +2,7 @@
 
 Year 2 University Team Project Assignment. I worked in a team with 4 other random classmates to produce a game in Unreal Engine 4's Blueprint system. The time allotted for finishing the project was about 9 weeks.
 
-A short video showcasing the game: https://www.youtube.com/watch?v=2bpZS3uceqo&feature=youtu.be
+A short video showcasing the game: https://youtu.be/2bpZS3uceqo
 
 Available for download here: https://drive.google.com/open?id=0B4UNk99_E8ERVnFNX0h3Q050ZDQ
 
